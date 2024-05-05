@@ -1,0 +1,8 @@
+
+fastapi
+pydantic
+uvicorn
+fastapi-mqtt
+requests
+fastapi-utilities
+
